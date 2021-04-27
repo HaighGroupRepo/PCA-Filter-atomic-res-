@@ -1,0 +1,5 @@
+,filename,pxscale,imsize,pxnum,smoothrad,sep1_px,tempwidth1,svd1_hi,svd1_lo,bss1_lo,bss1_hi,sep2_px,tempwidth2,svd2_hi,svd2_med,svd2_lo,bss2_hi,bss2_med,bss2_lo,gfilt,wfilt,mfilt,lprad
+0,HAADF _0024_useful_antiWMoS.dm3,0.40818885,417.99 nm,1024,1.2,5,34,55,27,27,55,3,36,60,30,15,60,30,15,1.6,5,3,60
+1,HAADF _0052.dm3,0.019582605,20.05 nm,1024,1.2,2,28,65,36,36,65,2,30,70,33,21,70,33,21,1.6,5,3,60
+2,HAADF _0100.dm3,0.009791302,20.05 nm,2048,2,5,48,65,20,20,65,3,48,60,36,24,60,36,24,1.6,5,3,60
+3,wmo_0048.dm3,0.018042909,36.95 nm,2048,1.6,2,32,60,18,18,60,2,32,60,37,16,60,37,16,1.6,5,3,60
